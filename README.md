@@ -5,4 +5,4 @@ Use to sort mods from the [Campaign mod collection](https://steamcommunity.com/s
 
 ## How to use
 1. Download campaign.xml latest version
-   * [Download Here]()
+   * [Download Here](https://github.com/CatTAG-0/Modlist-for-campaign/releases)
